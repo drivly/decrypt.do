@@ -1,10 +1,6 @@
-# worker.templates.do - Templates
+# Decrypt.do - Decryption API
 
-## Getting Started
-
-If you don't already have a browser extension to pretty-print JSON and make links clickable, start by installing that: <https://extensions.do>
-
-Then interactively use the API at: <https://templates.do/api>
+Explore the API at: <https://templates.do/api>
 
 ```json
 {
