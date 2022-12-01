@@ -1,31 +1,31 @@
 # Decrypt.do - Decryption API
 
-Explore the API at: <https://templates.do/api>
+Explore the API at: <https://decrypt.do/api>
 
 ```json
 {
   "api": {
     "icon": "🚀",
-    "name": "templates.do",
-    "description": "Cloudflare Worker Template",
-    "url": "https://templates.do/api",
-    "type": "https://apis.do/templates",
+    "name": "decrypt.do",
+    "description": "Decryption API",
+    "url": "https://decrypt.do/api",
+    "type": "https://apis.do/crypto",
     "endpoints": {
-      "listCategories": "https://templates.do/api",
-      "getCategory": "https://templates.do/:type"
+      "listCategories": "https://decrypt.do/api",
+      "getCategory": "https://decrypt.do/:type"
     },
-    "site": "https://templates.do",
-    "login": "https://templates.do/login",
-    "signup": "https://templates.do/signup",
-    "subscribe": "https://templates.do/subscribe",
-    "repo": "https://github.com/drivly/templates.do"
+    "site": "https://decrypt.do",
+    "login": "https://decrypt.do/login",
+    "signup": "https://decrypt.do/signup",
+    "subscribe": "https://decrypt.do/subscribe",
+    "repo": "https://github.com/drivly/decrypt.do"
   },
   "gettingStarted": [
     "If you don't already have a JSON Viewer Browser Extension, get that first:",
     "https://extensions.do"
   ],
   "examples": {
-    "listItems": "https://templates.do/worker"
+    "listItems": "https://decrypt.do/worker"
   },
   "user": {
     "authenticated": false,
